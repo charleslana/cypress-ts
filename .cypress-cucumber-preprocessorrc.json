@@ -1,0 +1,12 @@
+{
+  "name": "my project",
+  "depdendencies": {},
+  "devDepdendencies": {},
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": [
+      "cypress/e2e/[filepath]/**/*.{js,ts}",
+      "cypress/e2e/[filepath].{js,ts}",
+      "cypress/support/step-definitions/**/*.{js,ts}"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cSpell.words": ["badeball", "bahmutov", "duckduckgo", "searchbox", "topbar", "yaman", "Yaman"],
+  "cucumberautocomplete.steps": ["cypress/e2e/**/*.ts", "cypress/support/step-definitions/**/*.ts"],
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "cucumberautocomplete.formatConfOverride": {
+    "Funcionalidade": 0,
+    "Cenario": 1,
+    "Dado": 2,
+    "Quando": 2,
+    "E": 2,
+    "Entao": 2
+  }
+}
